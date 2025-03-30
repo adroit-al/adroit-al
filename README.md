@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adroit-al
+- 👋 Hi, I’m Albert
 - 👀 I’m interested in pursuing a career in data analysis.
 - 🌱 I’m currently learning data and business analytics. 
 
